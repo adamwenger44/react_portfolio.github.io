@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 7px black solid ;
+}
+
+#name {
+  font-size: 25px;
+}
