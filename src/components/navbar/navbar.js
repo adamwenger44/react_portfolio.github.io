@@ -1,6 +1,7 @@
 import React from "react";
 import "../../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from "react-router-dom";
 
 
 const mainPage = () => {
@@ -15,13 +16,13 @@ const mainPage = () => {
 
                 </div>
                 <div className="col-md-1">
-                    <p>About</p>
+                    <Link to="/About">About</Link>
                 </div>
                 <div className="col-md-1">
-                    <p>Portfolio</p>
+                <Link to="/Portfolio">Portfolio</Link>
                 </div>
                 <div className="col-md-1">
-                    <p>Contact</p>
+                <Link to="/Contact">Contact</Link>
                 </div>
                 <div className="col-md-1"></div>
             </nav>
