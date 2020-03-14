@@ -5,21 +5,21 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function body(props) {
     return (
-        <div class="container">
-            <div class="card">
-                <div class="card-header">
+        <div className="container">
+            <div className="card">
+                <div className="card-header">
                 <h3>
                         About Me
                 </h3>
                 </div>
-                <div class="card-body">
-                    <blockquote class="blockquote mb-0">
-                        <div class="row">
-                            <div class="col-md-3">
+                <div className="card-body">
+                    <blockquote className="blockquote mb-0">
+                        <div className="row">
+                            <div className="col-md-3">
                                 <img id="pic" src="https://github.com/adamwenger44/portfolio_bootstrap.github.io/blob/master/images/profile%20pic.jpg?raw=true" alt="profile pic" width="100%" height="auto%" />
                         </div>
 
-                                <div class="col-md-8">
+                                <div className="col-md-8">
         
                             <p>My name is Adam Wenger. I am 21 years old and am currently taking classes at UNCC
                                         for a web

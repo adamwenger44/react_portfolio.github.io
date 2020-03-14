@@ -3,9 +3,9 @@ import "../../App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-function navbar(props) {
+const mainPage = () => {
     return (
-        <div className="app">
+        <div className="navApp">
             <nav className="navbar">
                 <div className="col-md-1"></div>
                 <div className="col-md-3">
@@ -29,4 +29,4 @@ function navbar(props) {
         </div>
     )
 }
-export default navbar
+export default mainPage

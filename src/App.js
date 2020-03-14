@@ -1,17 +1,26 @@
 import React from 'react';
 import './App.css';
-import Navbar from "./components/navbar/navbar"
 import Wrapper from "./components/wrapper/wrapper"
-import Body from "./components/aboutMeBody/aboutMeBody"
-
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Nav from "./components/navbar/navbar"
+import About from "./pages/about"
+import Portfolio from "./pages/portfolio"
+import Contact from "./pages/contact"
+import NotFoundPage from "./pages/notFoundPage"
 function App() {
+
   return (
-    <Wrapper>
-      <Navbar>
-      </Navbar>
-      <Body>
-      </Body>
-    </Wrapper>
+    <Router>
+      <Nav />
+      <Wrapper>
+        <Switch>
+          <Route exact path="/" component={About} />
+          <Route exact path="/About" component={About} />
+          <Route exact path="/Portfolio" component={Portfolio} />
+          <Route exact path="/Contact" component={Contact} />
+          <Route component={NotFoundPage} />        </Switch>
+      </Wrapper>
+    </Router>
   );
 }
 
