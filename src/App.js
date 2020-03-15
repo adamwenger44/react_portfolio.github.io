@@ -7,6 +7,8 @@ import About from "./pages/about"
 import Portfolio from "./pages/portfolio"
 import Contact from "./pages/contact"
 import NotFoundPage from "./pages/notFoundPage"
+import Footer from "./components/footer/footer"
+
 function App() {
 
   return (
@@ -20,6 +22,7 @@ function App() {
           <Route exact path="/Contact" component={Contact} />
           <Route component={NotFoundPage} />        </Switch>
       </Wrapper>
+      <Footer />
     </Router>
   );
 }
