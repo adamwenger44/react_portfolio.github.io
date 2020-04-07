@@ -6,4 +6,4 @@ This is my newest version of my portfolio, describing a little about me, my back
   -Page displaying my most proud projects, with links to those deployed applications as well as link to code
   -A contact me page with links to my email, linkedin, github, and phone number
   
-  file:///C:/Users/adamj/OneDrive/Pictures/Screenshots/2020-04-07.png
+![2020-04-07](https://user-images.githubusercontent.com/55032432/78714345-bc4b8380-78e9-11ea-8eec-9a165579efff.png)
