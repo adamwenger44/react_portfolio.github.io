@@ -10,3 +10,6 @@ This is my newest version of my portfolio, describing a little about me, my back
   *A contact me page with links to my email, linkedin, github, and phone number
   
 ![2020-04-07](https://user-images.githubusercontent.com/55032432/78714345-bc4b8380-78e9-11ea-8eec-9a165579efff.png)
+
+
+![2020-04-07 (1)](https://user-images.githubusercontent.com/55032432/78714724-5c091180-78ea-11ea-8df7-d6882b2bf76b.png)
