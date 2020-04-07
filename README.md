@@ -11,4 +11,6 @@ This is my newest version of my portfolio, describing a little about me, my back
   
 ![2020-04-07 (3)](https://user-images.githubusercontent.com/55032432/78715720-ce2e2600-78eb-11ea-83ae-3dca8705d4d7.png)
 
-![2020-04-07 (1)](https://user-images.githubusercontent.com/55032432/78714724-5c091180-78ea-11ea-8df7-d6882b2bf76b.png)
+![2020-04-07 (4)](https://user-images.githubusercontent.com/55032432/78715767-de460580-78eb-11ea-84d5-56092a661195.png)
+
+![2020-04-07 (5)](https://user-images.githubusercontent.com/55032432/78715789-e4d47d00-78eb-11ea-8d24-65c3082e15f8.png)
