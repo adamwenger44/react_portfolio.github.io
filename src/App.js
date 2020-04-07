@@ -7,8 +7,7 @@ import About from "./pages/about"
 import Portfolio from "./pages/portfolio"
 import Contact from "./pages/contact"
 import NotFoundPage from "./pages/notFoundPage"
-import Footer from "./components/footer/footer"
-
+import Llama from "./pages/llama"
 function App() {
 
   return (
@@ -20,9 +19,10 @@ function App() {
           <Route exact path="/About" component={About} />
           <Route exact path="/Portfolio" component={Portfolio} />
           <Route exact path="/Contact" component={Contact} />
+          <Route exact path="/Llama" component={Llama} />
+
           <Route component={NotFoundPage} />        </Switch>
       </Wrapper>
-      <Footer />
     </Router>
   );
 }
