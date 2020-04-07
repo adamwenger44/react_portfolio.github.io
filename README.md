@@ -14,3 +14,6 @@ This is my newest version of my portfolio, describing a little about me, my back
 ![2020-04-07 (4)](https://user-images.githubusercontent.com/55032432/78715767-de460580-78eb-11ea-84d5-56092a661195.png)
 
 ![2020-04-07 (5)](https://user-images.githubusercontent.com/55032432/78715789-e4d47d00-78eb-11ea-8d24-65c3082e15f8.png)
+
+
+Utilizes React.js to render the front end. Uses functional components that allow a single area get updated rather then re rendering the entire page on a button click.  This allows the user to click between the different links within the navbar to display the seperate pages.
