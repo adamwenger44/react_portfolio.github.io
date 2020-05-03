@@ -32,6 +32,10 @@ const mainPage = () => {
                                 With currently a certificate under my belt in this field, I hope to find a job and be able to provide a good life for myself and my son.
                     </p>
 
+                    <p>
+                        Technical Skills: Node.Js, Express, JavaScript, jQuery,  React.js, GIT,  GitHub, MongoDB, MySQL, Handlebars, HTML, CSS, Bootstrap, Media Queries, APIs, Microsoft Suite, Heroku, Command- Line
+                    </p>
+
                         </blockquote>
                     </div>
 
