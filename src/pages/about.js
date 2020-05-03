@@ -17,26 +17,19 @@ const mainPage = () => {
                         <blockquote className="blockquote mb-0">
                             <div className="row">
                                 <div className="col-md-3">
-                                    <img id="pic" src="https://github.com/adamwenger44/portfolio_bootstrap.github.io/blob/master/images/profile%20pic.jpg?raw=true" alt="profile pic" width="100%" height="auto%" />
+                                    <img id="pic" src="https://github.com/adamwenger44/react_portfolio.github.io/blob/master/images/IMG_2470.jpg?raw=true" alt="profile pic" width="100%" height="auto%" />
                                 </div>
 
                                 <div className="col-md-8">
 
-                                    <p>My name is Adam Wenger. I am 21 years old and am currently taking classes at UNCC
-                                                for a web
-                                                developement bootcamp. I went to a 4 year college but decided it was not the right path for me,
+                                    <p>My name is Adam Wenger. I am a graduate from the coding bootcamp for web developement at the University of North Carolina at Charlotte. I went to a 4 year college but decided it was not the right path for me,
                                                 partially for not knowing what I wanted to study or do for the rest of my life.
-                                                This time around
-                                                is different, I have enjoyed coding very much so far and can see myself pursing a career in the field! I have a few
-                                                hobbies outside of
-                                                school. One is playing video games, I've been playing video games my entire life
-                                                and has always
-                                                been a great way to relax after a long day.  A dream job for me would be to develop video games. </p>
+                                                After completing the program I believe I have found the path for me, I find coding rewarding, challenging and fun and am now pursing a career in the field! Coding has become a new found hobby of mine, yet I have a few others. One is playing video games, I've been playing video games my entire life, as well as being intrigued by the process that goes into creating a game.  A dream job for me would be to be on a team to develop video games. </p>
                                 </div>
                             </div>
 
                             <p>
-                                Once I complete this program I hope to get a good job and be able to provide a good life for myself and my son
+                                With currently a certificate under my belt in this field, I hope to find a job and be able to provide a good life for myself and my son.
                     </p>
 
                         </blockquote>
